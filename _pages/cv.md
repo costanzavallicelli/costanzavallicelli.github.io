@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+# CV PDF
+[You can view my full CV by clicking this hyperlink ](https://costanzavallicelli.github.io/files/CostanzaVallicelli_CV_11June025.pdf)
+
+
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
