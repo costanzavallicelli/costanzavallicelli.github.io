@@ -9,10 +9,7 @@
 
 main:
   - title: "Research Interests"
-    url: /researchinterests/  
-    
-  # - title: "Talks"
-  #   url: /talks/    
+    url: /researchinterests/     
     
   - title: "CV"
     url: /cv/
