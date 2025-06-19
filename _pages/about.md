@@ -11,7 +11,7 @@ I am a first year PhD student in Linguistics at the [University of Toronto](http
 I am also a Research Assistant for the [Heritage Language Variation and Change Project](https://ngn.artsci.utoronto.ca/HLVC/3_2_active_ra.php) (PI: Naomi Nagy).
 
 **Here is a list of the topics that I’m currently working on:**
-1. Possessive order variation in homeland and heritage Calabrian-Italian and loss of regional markedness in this variety as a result of standardization
+1. Possessive order variation in homeland and heritage Calabrian-Italian and loss of regional markedness in this variety as a result of standardization.
 2. Language Ideologies among Heritage Calabrian-Italians, tentions between Standard Language Ideologies and Authenticity in the use of Italian vs Calabrese.
 3. Language documentation of Romagnol, an endangered and under documented Romance language spoken in the North-East of Italy.
 
