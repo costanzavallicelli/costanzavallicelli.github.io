@@ -25,7 +25,7 @@ Presentations
 - Linguistics practices and attitudes of Italian-Calabrese heritage speakers in Toronto, The 16th Annual Meeting of the Illinois Language and Linguistics Society (ILLS16), University of Illinois at Urbana-Champaign.
 - "Sorry if I use the tu": Negotiating address forms in online Italian. The 3rd Language, Communication, and Culture Graduate Conference (LCC), University of Alberta.
 
-Researrch experience
+Research experience
 ======
 * Research Assistant for the Heritage Language Variation and Change Project. University of Toronto. Ongoing PI: Professor Naomi Nagy.
 * Research assistant for the International Corpus of English: Malta & Puerto Rico.University of Bamberg. 2021. PI: Professor Manfred Krug.
