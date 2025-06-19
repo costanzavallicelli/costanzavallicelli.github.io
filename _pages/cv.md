@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# CV PDF
 [You can view my full CV by clicking here](https://costanzavallicelli.github.io/files/CostanzaVallicelli_CV_11June025.pdf)
 
 
