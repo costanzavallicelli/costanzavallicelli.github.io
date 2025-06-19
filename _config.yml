@@ -26,10 +26,10 @@ author:
   name             : "Costanza Vallicelli"
   pronouns         : "she/her"  
   bio              : "Linguistics PhD student at the University of Toronto"
-  location         : "Toronto"
-  employer         : 
+  location         : 
+  employer         : "University of Toronto"
   uri              : "https://www.linguistics.utoronto.ca/people/directories/graduate-students/costanza-vallicelli"
-  email            :  
+  email            :  c.vallicelli@mail.utoronto.ca
 
   # Academic websites
   academia         : # URL
