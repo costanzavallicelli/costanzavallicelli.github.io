@@ -20,6 +20,7 @@ Education
 
 Presentations
 ======
+- [upcoming] Standardization in homeland and heritage Italian: loss of regional markedness in possessives. Paper to be presented at the 53rd meeting of New Ways of Analyzing Variation (NWAV), University of Michigan-Ann Arbor, November 5-7, 2025.
 - “Mamma mia” or “Mia mamma”?: Parallel trajectories of morphosyntactic variation in heritage and homeland Italian possessives - The 14th Change and Variation in Canada workshop (CVC 14), University of Alberta, June 10-12, 2025.
 - When Italian languages go abroad: from Calabrian villages to metropolitan Toronto. The 2nd New Issues in Language Contact Studies (NILCS 2025) [poster], University of L’Aquila, May 28-30, 2025.
 - Linguistics practices and attitudes of Italian-Calabrese heritage speakers in Toronto, The 16th Annual Meeting of the Illinois Language and Linguistics Society (ILLS16), University of Illinois at Urbana-Champaign.
@@ -27,6 +28,7 @@ Presentations
 
 Research experience
 ======
-* Research Assistant for the Heritage Language Variation and Change Project. University of Toronto. Ongoing PI: Professor Naomi Nagy.
-* Research assistant for the International Corpus of English: Malta & Puerto Rico.University of Bamberg. 2021. PI: Professor Manfred Krug.
+* Research Assistant for a project on Yorùbá. University of Toronto. [Starting in 2025]. PIs: Professors Samuel Akinbo and Suzi Oliveira de Lima
+* Research Assistant for the Heritage Language Variation and Change Project. University of Toronto. [Started in 2024]. PI: Professor Naomi Nagy.
+* Research assistant for the International Corpus of English: Malta & Puerto Rico.University of Bamberg. [2021]. PI: Professor Manfred Krug.
 
